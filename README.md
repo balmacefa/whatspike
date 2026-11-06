@@ -1,4 +1,4 @@
-# Pike Remoto — control de tu PC por WhatsApp
+# WhatsPike — control de tu PC por WhatsApp
 
 Habla (texto o voz) con tu propia PC desde tu self-chat de WhatsApp. Un asistente de IA
 hace el trabajo en tu máquina: crea/edita archivos, corre comandos, **ve la pantalla**,
