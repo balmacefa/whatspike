@@ -1,0 +1,13 @@
+# secretos / datos personales — NUNCA subir
+auth/
+auth-bridge/
+auth.bak/
+store*.json
+sessions.json
+*.log
+*.wav
+*.png
+*.flag
+outbox.jsonl
+node_modules/
+*-qr*.png
